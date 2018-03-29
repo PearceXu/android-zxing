@@ -8,3 +8,5 @@
 
 
 ##ps ：请各位大佬，随手留个star，谢谢！
+
+##ps:zxing 源码地址：https://github.com/zxing/zxing
